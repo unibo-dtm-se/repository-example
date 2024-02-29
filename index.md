@@ -5,10 +5,9 @@ has_children: false
 nav_order: 1
 ---
 
-## SE-DTM Project Work Report
+# Project title
 
-This website contains the final report for the project work of Software Engineering
-
+Abstract (~ 2000 characters), here you should briefly explain what the project is about.
 
 
 Authors:
