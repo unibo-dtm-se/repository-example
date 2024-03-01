@@ -1,5 +1,5 @@
 ---
-title: Userguide
+title: User guide
 has_children: false
 nav_order: 9
 ---
