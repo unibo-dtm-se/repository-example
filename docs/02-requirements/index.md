@@ -16,4 +16,5 @@ nav_order: 2
     - **Implementation**: constrain the entire phase of system realization, for instance by requiring the use of a specific programming language and/or a specific software tool.
 
 - If there are unclear terms (ambiguous, very complex, etc.) these should be explained
+- Each requirement must have its own acceptance criteria
 
