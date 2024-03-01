@@ -15,4 +15,6 @@ nav_order: 4
 
 ## Implementation details
 
-- Anything new AND relevant that you learned and are willing to report
+- Describe anything new AND relevant that you learned and are willing to report
+    - For example, a class of which you are particularly proud
+
