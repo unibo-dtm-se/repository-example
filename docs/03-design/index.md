@@ -1,7 +1,7 @@
 ---
 title: Design
 has_children: false
-nav_order: 2
+nav_order: 3
 ---
 
 # Design
@@ -15,17 +15,21 @@ This chapter explains the strategies used to meet the requirements identified in
 - The chosen architecture must be described (for example, layered architecture)
 
 ## Modelling
-Structure
-Class diagram
 
-DDD building blocks / pattern tattici (guarda slide Ale)
+- This section explains how the domain has been modelled
+- This section should contains some class diagrams
+    - The application's most relevant design aspects are highlighted, showcasing how they solve the problems described in the analysis
+    - Diagrams do not show implementation aspects that are not relevant, such as private fields
+- This section describe how the tactical patterns and other aspects of DDD seen in class were applied
+
 
 ## Interaction
-Sequence or activity diagram
+- This section explains the behavior of the system, for instance using sequence or activity diagrams
 
 ## Behaviour
-State diagram
+- This section explains the possible states that the system can be in and the events that cause the transition from one state to another, for instance using UML state diagrams
 
 ## Data-related aspects
-Data schema
-Data persistance e.g. choice of the technology (SQL, noSQL)
+- This section explains all the details related to the data, for instance:
+    - Data schema
+    - Data persistence technologies (if used), for example: MySQL, MongoDB, ...
