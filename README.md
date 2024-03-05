@@ -124,8 +124,8 @@ Follow instructions from here: <https://jekyllrb.com/docs/installation/>
 
 <!-- References -->
 
-[template-repo]: https://github.com/unibo-dtm-se/project-work-template
-[template-site]: https://unibo-dtm-se.github.io/project-work-template
+[template-repo]: https://github.com/unibo-dtm-se/template-project-work
+[template-site]: https://unibo-dtm-se.github.io/template-project-work
 [course-site]: https://www.unibo.it/en/study/phd-professional-masters-specialisation-schools-and-other-programmes/course-unit-catalogue/course-unit/2023/466765
 [general-forum]: https://virtuale.unibo.it/mod/forum/view.php?id=1512135
 [project-forum]: https://virtuale.unibo.it/mod/forum/view.php?id=1544423
