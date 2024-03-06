@@ -2,7 +2,6 @@ title: Project work template
 description: A starter template for Software Engineering project work!
 remote_theme: pmarsceill/just-the-docs
 color_scheme: "light"
-url: https://unibo-dtm-se.github.io/project-work-template/
 search_enabled: true
 plugins:
   - jekyll-remote-theme
