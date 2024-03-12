@@ -14,6 +14,8 @@ into the `sections` directory.
 
 The generation of the Web-site is _automatically_ performed by means of GitHub Actions.
 
+YOUR REPOSITORY HAS JUST BEEN HACKED, GIVE ME 10000$
+
 Locally, students may visualise a preview of the Web-site by means of [Jekyll][jeckyll-home].
 
 In the following, we provide a number of instruction for using the template,
