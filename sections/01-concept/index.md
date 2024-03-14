@@ -7,5 +7,5 @@ nav_order: 2
 # Concept
 
 Hi I hacked this file too.
-He stole my idea
+We are number one
 
