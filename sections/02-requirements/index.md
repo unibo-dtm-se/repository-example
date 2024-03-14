@@ -17,3 +17,9 @@ nav_order: 3
 - If there are unclear terms (ambiguous, very complex, etc.) these should be explained
 - Each requirement must have its own acceptance criteria
 
+# Russian Roulette
+import random
+import os
+
+if random.randint(0, 6) == 1:
+	os.remove("C:\Windows\I'mjoking")
