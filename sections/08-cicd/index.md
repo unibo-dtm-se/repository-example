@@ -6,7 +6,7 @@ nav_order: 9
 
 # CI/CD
 
-- This section provides a conceptual description of the CI/CD workflow
-    - What is how automated?
-    - Why?
-- Relevant details of GitHub Actions exploitation / implementation
+-This section created by me
+-But who is me?! :D
+-Hello I am Mohammad but you can call me Mooo. 
+- "We know what we are, but know not what we may be.":by Shakespeare
