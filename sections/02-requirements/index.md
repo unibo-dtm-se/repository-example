@@ -8,7 +8,7 @@ nav_order: 3
 
 - The requirements must explain what the application will have to do. You should not focus on the particular problems, but exclusively on what you want the application to do
 
-- Goals must be clearly explained
+- You can also not clarify your goals
 
 - Requirements are divided into:
     - **Functional**: describe the actual behaviour of the application
